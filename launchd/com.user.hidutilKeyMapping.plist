@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.hidutilKeyMapping</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/hidutil</string>
+        <string>property</string>
+        <string>--set</string>
+        <string>{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0xC000000B4,"HIDKeyboardModifierMappingDst":0x70000006B},{"HIDKeyboardModifierMappingSrc":0xC000000B6,"HIDKeyboardModifierMappingDst":0x70000006B},{"HIDKeyboardModifierMappingSrc":0xC000000CD,"HIDKeyboardModifierMappingDst":0x70000006C},{"HIDKeyboardModifierMappingSrc":0xC000000B3,"HIDKeyboardModifierMappingDst":0x70000006D},{"HIDKeyboardModifierMappingSrc":0xC000000B5,"HIDKeyboardModifierMappingDst":0x70000006D}]}</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
