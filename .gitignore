@@ -1,4 +1,14 @@
 .DS_Store
 mediakeyd
+MediaKeysFix
+MediaKeysFix.app
+MediaKeysFix.iconset
 *.o
 *.swp
+*.log
+*.err
+*.out
+*.dmg
+*.zip
+build/
+temp_*.dmg
