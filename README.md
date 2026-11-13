@@ -6,6 +6,10 @@
 [![Architecture](https://img.shields.io/badge/arch-Apple%20Silicon%20%7C%20Intel-blue.svg)](https://github.com/wavehs/macos-mediakeys-fix)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+<p align="center">
+  <img src="resources/demo.gif" alt="MediaKeysFix Demo" width="720" />
+</p>
+
 ---
 
 ## The Problem
