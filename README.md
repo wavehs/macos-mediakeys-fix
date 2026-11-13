@@ -10,6 +10,12 @@
   <img src="resources/demo.gif" alt="MediaKeysFix Demo" width="720" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/wavehs/macos-mediakeys-fix/releases/latest/download/MediaKeysFix.dmg">
+    <img src="https://img.shields.io/badge/Download-MediaKeysFix.dmg-238636?style=for-the-badge&logo=apple&logoColor=white" alt="Download MediaKeysFix.dmg" />
+  </a>
+</p>
+
 ---
 
 ## The Problem
@@ -41,7 +47,7 @@ On macOS, physical media keys often fail when controlling web players (YouTube M
 
 ### Option 1: Download Pre-built DMG (Recommended)
 
-1. Download **[MediaKeysFix.dmg](https://github.com/wavehs/macos-mediakeys-fix/releases/latest)**.
+1. Download **[MediaKeysFix.dmg](https://github.com/wavehs/macos-mediakeys-fix/releases/latest/download/MediaKeysFix.dmg)**.
 2. Open the disk image and drag **MediaKeysFix.app** to your **Applications** folder.
 3. Open **MediaKeysFix** from Applications:
    * When prompted, click **Enable (Recommended)** to allow starting on computer boot.
